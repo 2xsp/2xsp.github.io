@@ -79,8 +79,4 @@
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
                        dxj777.top@gmail.com<br />
-                </div>
-            </div>
-        </div>
-    </body>
-</html>
+                
