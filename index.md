@@ -71,11 +71,7 @@
                         <li>
                              撸死你地址
                             <a href="https://www.lsn233.com" target="_blank">https://www.lsn233.com</a>
-			
                         </li>
-                       
-
                     </ul>
-                    <h1>联系邮箱:</h1>
-                       dxj777.top@gmail.com<br />
+                    <h1>联系邮箱:dxj777.top@gmail.com</h1>
                 
