@@ -59,19 +59,20 @@
 
     <body>
         <div class="main">
- <h1>狼友站-最新发布地址</h1>
+ <h1>狼友福利导航</h1>
             <div class="content">
                 <div class="content-top">
-                    <h2>请大家 Ctrl+D 收藏本页</h2>
+                    <h2>请大家 Ctrl+D 收藏本页 不迷路</h2>
                     <ul>
+		    	<li>
+                             撸死你地址
+                            <a href="https://www.lsn233.com" target="_blank">https://www.lsn233.com</a>
+                        </li>
                         <li>
                             大香蕉最新地址
                             <a href="https://www.dxj9527.com" target="_blank">https://www.dxj9527.com</a>
                         </li>
-                        <li>
-                             撸死你地址
-                            <a href="https://www.lsn233.com" target="_blank">https://www.lsn233.com</a>
-                        </li>
+                        
                     </ul>
                     <h1>联系邮箱:dxj777.top@gmail.com</h1>
                 
