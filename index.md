@@ -55,6 +55,9 @@
                 padding: 40px 0;
             }
         </style>
+	<script>
+ 		console.log('test js');
+ 	</script>
     </head>
 
     <body>
