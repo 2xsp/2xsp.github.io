@@ -59,7 +59,7 @@
 
     <body>
         <div class="main">
- <h1>狼友福利导航</h1>
+ <h1>爱X视频福利导航</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页 不迷路</h2>
