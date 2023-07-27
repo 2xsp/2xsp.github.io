@@ -62,7 +62,7 @@
 
     <body>
         <div class="main">
- <h1>爱插视频发布页</h1>
+ <h1>爱插视频网址发布页</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页不迷路,记住回家的路</h2>
