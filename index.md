@@ -69,37 +69,18 @@
                     <ul>
 		    	<li>
                              地址1
-                            <a href="https://www.2xsp.top" target="_blank">(https://www.2xsp.top)</a>
+                            <a href="https://www.2xsp.xyz" target="_blank">https://www.2xsp.xyz</a>
                         </li>
-                        <li>
-                            大香蕉最新地址
-                            <a href="https://www.dxj9527.com" target="_blank">https://www.dxj9527.com</a>
-                        </li>
-			    <li>
-                            色站1
-                            <a href="https://www.400hmk.com" target="_blank">https://www.400hmk.com</a>
+                       <li>
+                             地址2
+                            <a href="https://www.2xsp.top" target="_blank">https://www.2xsp.top</a>
                         </li>
 			    <li>
-                            色站2
-                            <a href="https://www.djc19.com/" target="_blank">https://www.djc19.com/</a>
+                             地址1
+                            <a href="https://www.2xsp.top" target="_blank">https://www.2xsp.top</a>
                         </li>
-			    <li>
-                            色站3
-                            <a href="https://www.hbdsyhg.com/" target="_blank">https://www.hbdsyhg.com/</a>
-                        </li>
-			    <li>
-                            色站4
-                            <a href="https://www.scjlmjc.com/" target="_blank">https://www.scjlmjc.com/</a>
-                        </li>
-			    <li>
-                            色站5
-                            <a href="https://www.whdjcf.com/" target="_blank">https://www.whdjcf.com/</a>
-                        </li>
-			    
-			     
-                        
                     </ul>
-		    <h3>QQ或微信打不开以上网址，请使用手机浏览器访问，苹果手机推荐使用Safari浏览器，安卓手机推荐使用UC或谷歌浏览器</h3>
-                    <h1>联系邮箱:dxj777.top@gmail.com</h1>
+		    <h3>QQ或微信打不开以上网址，请使用手机浏览器访问，苹果手机推荐使用Safari浏览器，安卓手机推荐使用夸克浏览器或UC浏览器</h3>
+                    <h1>联系邮箱:dxj777.top@gmail.com 或者 lidapao8023@gmail.com</h1>
 		    
                 
