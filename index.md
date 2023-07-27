@@ -1,7 +1,7 @@
  <html>
 	<head>
         <meta charset="UTF-8" />
-        <title>全国最大的成人导航</title>
+        <title>导航</title>
         <style>
             html,
             body {
@@ -62,14 +62,14 @@
 
     <body>
         <div class="main">
- <h1>爱X视频福利导航</h1>
+ <h1>爱插视频发布页</h1>
             <div class="content">
                 <div class="content-top">
-                    <h2>请大家 Ctrl+D 收藏本页 不迷路</h2>
+                    <h2>请大家 Ctrl+D 收藏本页不迷路,记住回家的路</h2>
                     <ul>
 		    	<li>
-                             撸死你地址
-                            <a href="https://www.lsn233.com" target="_blank">https://www.lsn233.com</a>
+                             地址1
+                            <a href="https://www.2xsp.top" target="_blank">(https://www.2xsp.top)</a>
                         </li>
                         <li>
                             大香蕉最新地址
